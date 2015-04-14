@@ -1,0 +1,8 @@
+.idea/
+.svn/
+_build/
+_docs/
+docs/
+node_modules/
+*.iml
+*.mkm
